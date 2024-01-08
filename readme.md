@@ -1,6 +1,6 @@
 - Que comando utilizaste en el paso 11? Por que?
-R/ git reset --hard HEAD~1.  porque necesito mover el puntero head y 
-styled un commit atras y ademas quitar del staging area los cambios 
+R/utilice git reset --hard HEAD~1.  
+porque necesito mover el puntero head ystyled un commit atras y ademas quitar del staging area los cambios 
 realizados en git-nuestro. Lo anterior lo puedo hacer con git reset HEAD~1 
 y git restore por  aparte. Sin embargo, uso git reset --hard para hacer 
 los dos comandos en uno.
